@@ -45,7 +45,7 @@ To stop the local server, you have two options:
 * Simply close Visual Studio Code and the web browser tab that displays the project interface.
 * Click the port number displayed in the status bar (usually located at the bottom right corner of Visual Studio Code). This will also terminate the server.
 
-The "Live Server" extension provides a seamless way to execute and interact with your Name Variations Project in a local development environment. It enables real-time updates and simplifies the process of testing and exploring the various string variations and transformations.
+The "Live Server" extension provides a seamless way to execute and interact with your **Name Variations Project** in a local development environment. It enables real-time updates and simplifies the process of testing and exploring the various string variations and transformations.
 
 By following these step-by-step instructions and using the "Live Server" extension, you'll experience the full capabilities of the **Name Variations Project**, including its JavaScript module-based interactions.
 
